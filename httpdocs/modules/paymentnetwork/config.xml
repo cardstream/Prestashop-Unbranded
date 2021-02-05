@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>paymentnetwork</name>
+    <displayName><![CDATA[Payment Network Gateway]]></displayName>
+    <version><![CDATA[2.0.2]]></version>
+    <description><![CDATA[Process payments with Payment Network]]></description>
+    <author><![CDATA[Payment Network]]></author>
+    <tab><![CDATA[payments_gateways]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
