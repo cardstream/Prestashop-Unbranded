@@ -15,8 +15,7 @@ This Prestashop module provides an easy method to integrate with the payment gat
 
 # Prerequisites
 
-- The module requires the following prerequisites to be met in order to function correctly:
-    - SSL **NB: HTTPS is expected to be in place as the payment gateway will respond over SSL when redirecting the user's browser. Failure to provide an environment where HTTPS traffic is possible, will result in the 3DSv2 payment flow failing***
+- None
 
 > Please note that we can only offer support for the Module itself. While every effort has been made to ensure the payment module is complete and bug free, we cannot guarentee normal functionality if unsupported changes are made.
 
@@ -36,6 +35,7 @@ To rebrand this module as your own, please complete the following steps:
 	- Line 6: `<description><![CDATA[Process payments with Payment Network]]></description>` changing Payment Network to your brand name
 	- Line 7: `<author><![CDATA[Payment Network]]></author>` changing Payment Network to your brand name
 3. Replace the file `httpdocs/modules/paymentnetwork/logo.gif` with your own logo in gif format
+4. When downloading as a zip file, you can right-click and rename to remove the `Unbranded` text from the filename.
 
 # Installing and configuring the module
 
