@@ -12,7 +12,7 @@
 * to license@prestashop.com so we can send you a copy immediately.
 *
 *
-*  @author Matthew James <support@cardstream.com>
+*  @author Matthew James <support@example.com>
 *  @copyright  2018 Payment Network Ltd
 *  @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
 *}
