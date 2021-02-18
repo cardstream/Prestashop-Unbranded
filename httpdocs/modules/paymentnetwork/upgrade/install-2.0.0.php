@@ -12,7 +12,7 @@
  * obtain it through the world-wide-web, please send an email
  * to license@prestashop.com so we can send you a copy immediately.
  *
- *  @author    Paul Lashbrook <support@cardstream.com>
+ *  @author    Paul Lashbrook <support@example.com>
  *  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
  */
 
