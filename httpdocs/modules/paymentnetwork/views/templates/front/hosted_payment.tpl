@@ -13,7 +13,7 @@
 *
 *
 *
-*  @author Matthew James <support@cardstream.com>
+*  @author Matthew James <support@example.com>
 *  @license    http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
 *}
 {extends "$layout"}
