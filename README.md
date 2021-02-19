@@ -40,9 +40,9 @@ To rebrand this module as your own, please complete the following steps:
 # Installing and configuring the module
 
 1. Copy the contents of the httpdocs folder into your root PrestaShop directory. If you are asked if you want to replace any existing files, click “Yes”.
-2. Log in to the Admin area of PrestaShop, then from the left menu, click Modules and then 'Modules Catalog'. Next, from the search box start typing "Cardstream" and when the module shows up below (follow the second paragraph if this does not occur); Click 'Install'. The page should automatically refresh when the module installs. Clicking on 'Configure' will automatically direct you to the module settings.
-3. From here, enter your Merchant ID, Currency Code, Country ID and Passphrase. In the 'Frontend' box, enter a sentence asking your customer to pay with Cardstream, i.e. "Process payments with Cardstream", or "Cardstream".
-4. Whilst in the module settings, go to 'Manage Hooks' at the top right of the page. Then go to 'Transplant a module' at the top right, select 'Cardstream Payment Gateway' as the module and transplant it to 'displayOrderConfirmation'. Repeat the latter to additionally add the 'displayPaymentReturn' hook.
+2. Log in to the Admin area of PrestaShop, then from the left menu, click Modules and then 'Modules Catalog'. Next, from the search box start typing "PaymentNetwork" and when the module shows up below (follow the second paragraph if this does not occur); Click 'Install'. The page should automatically refresh when the module installs. Clicking on 'Configure' will automatically direct you to the module settings.
+3. From here, enter your Merchant ID, Currency Code, Country ID and Passphrase. In the 'Frontend' box, enter a sentence asking your customer to pay with PaymentNetwork, i.e. "Process payments with PaymentNetwork", or "PaymentNetwork".
+4. Whilst in the module settings, go to 'Manage Hooks' at the top right of the page. Then go to 'Transplant a module' at the top right, select 'PaymentNetwork Payment Gateway' as the module and transplant it to 'displayOrderConfirmation'. Repeat the latter to additionally add the 'displayPaymentReturn' hook.
 5. Click 'Save Changes'.
 
 
