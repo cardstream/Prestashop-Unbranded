@@ -26,9 +26,9 @@ To rebrand this module as your own, please complete the following steps:
 1. In file `httpdocs/modules/paymentnetwork/paymentnetwork.php` change the following to match that which we provide:
 	- Line 15: `*  @author    Support <support@paymentnetwork.com>` to match your support email
 	- Line 37: `const REDIRECT_NOTICE = 'You will be redirected to the Payment Gateway for payment';` changing Payment Gateway to your brand name
-	- Line 40: `const DIRECT_URL = 'https://gateway.example.com/direct/';` changing gateway.example.com to your gateway url
-	- Line 41: `const HOSTED_URL = 'https://gateway.example.com/hosted/';` changing gateway.example.com to your gateway url
-	- Line 44: `const HOSTED_URL_MODAL = 'https://gateway.example.com/hosted/modal';` changing gateway.example.com to your gateway url
+	- Line 40: `const DIRECT_URL = 'https://gateway.example.com/direct/';` changing gateway.example.com to your gateway URL
+	- Line 41: `const HOSTED_URL = 'https://gateway.example.com/hosted/';` changing gateway.example.com to your gateway URL
+	- Line 44: `const HOSTED_URL_MODAL = 'https://gateway.example.com/hosted/modal';` changing gateway.example.com to your gateway URL
 	- Line 66: `$this->displayName            = 'Payment Network Gateway';` changing Payment Network Gateway to your brand name
 	- Line 67: `$this->description            = $this->l('Process payments with Payment Network');` changing Payment Network to your brand name
 2. In file `httpdocs/modules/paymentnetwork/config.xml` change the following
