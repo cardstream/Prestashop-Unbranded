@@ -10,7 +10,7 @@
 
 # Introduction
 
-This Prestashop module provides an easy method to integrate with the payment gateway.
+This PrestaShop module provides an easy method to integrate with the payment gateway.
  - Supports versions: **1.7 - 1.7.56**
 
 # Prerequisites
